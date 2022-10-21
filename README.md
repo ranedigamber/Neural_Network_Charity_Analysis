@@ -1,10 +1,10 @@
 # Neural_Network_Charity_Analysis
 
 #Overview of the Analysis
+
 The objective of this analysis was to assist Alphabet Soup in their investment. We have used machine learning and neural network on the dataset provided to predict whether an applicant funded by Alphabet Soup will be successful.  
 
 #Results
-
 ## Data Preprocesing
 
 1. What variable(s) were considered the target(s) for your model?
